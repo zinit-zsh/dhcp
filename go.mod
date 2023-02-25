@@ -12,6 +12,6 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/stretchr/testify v1.6.1
 	github.com/u-root/uio v0.0.0-20210528114334-82958018845c
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
-	golang.org/x/sys v0.0.0-20210525143221-35b2ab0089ea
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
 )
